@@ -132,7 +132,7 @@ function animate() {
 
 main.addEventListener("scroll", () => {
     scrollBlogPosts();
-    scrollCircle();
+    // scrollCircle();
     scrollDiscover();
 })
 
